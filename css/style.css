@@ -1,0 +1,16 @@
+main .texto {
+  color: black; }
+
+* {
+  margin: 0%;
+  padding: 0%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; }
+
+header {
+  background-color: #112a42;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 70px; }
+
+i {
+  font-size: 300%; }
