@@ -7,10 +7,18 @@ main .texto {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; }
 
 header {
-  background-color: #112a42;
   font-style: oblique;
   font-weight: bold;
   font-size: 70px; }
 
 i {
   font-size: 300%; }
+
+.nav-link {
+  color: black;
+  text-decoration: none; }
+
+.nft {
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px; }
